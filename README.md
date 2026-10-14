@@ -34,7 +34,7 @@ Google Data Analytics Professional Certificate, Coursera
 
 Connect with Me
 
-LinkedIn: [Add your LinkedIn profile URL]
+LinkedIn: www.linkedin.com/in/joshua-akhigbe-733400284
 
 Email: akhigbej254@gmail.com
 
