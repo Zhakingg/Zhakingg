@@ -16,7 +16,7 @@ Databases: SQL and Microsoft SQL Server
 
 Portfolio Projects
 
-[View the project](https://github.com/Zhakingg/olist-sql-analysis)
+[View the project](https://github.com/Zhakingg/olist-sql-analysis) --Olist-SQL-Data-Analysis project
 
 Power BI Sales Dashboard — Coming soon
 
