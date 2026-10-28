@@ -16,7 +16,7 @@ Databases: SQL and Microsoft SQL Server
 
 Portfolio Projects
 
-SQL Data Analysis — Coming soon
+olist-sql-analysis
 
 Power BI Sales Dashboard — Coming soon
 
@@ -24,7 +24,7 @@ Python Data Analysis — Coming soon
 
 Tableau Cyclistic Analysis — Coming soon
 
-R Fitbit Analysis — Coming soon
+R Fitbit Analysis
 
 Education & Certification
 
