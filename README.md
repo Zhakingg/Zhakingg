@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="190" valign="top">
-  <img src="profile.jpg" width="170" alt="Joshua Akhigbe Adomokhai">
+<td width="230" valign="top">
+  <img src="profile.jpg" width="210" alt="Joshua Akhigbe Adomokhai">
 </td>
 <td valign="top">
 
@@ -78,7 +78,6 @@ Analysis of Fitbit activity data using R.
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--akhigbe-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-akhigbe-733400284) [![Email](https://img.shields.io/badge/Email-Send_a_message-D14836?logo=gmail&logoColor=white)](mailto:akhigbej254@gmail.com)
-
 <!--
 **Zhakingg/Zhakingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
