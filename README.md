@@ -24,7 +24,7 @@ Python Data Analysis — Coming soon
 
 Tableau Cyclistic Analysis — Coming soon
 
-R Fitbit Analysis
+[View the project](https://github.com/Zhakingg/R-Fitbit-Analysis) --R-Fitbit-Analysis Project
 
 Education & Certification
 
