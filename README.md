@@ -41,6 +41,11 @@ I turn raw data into clear answers. I enjoy investigating problems, finding patt
 
 ## 📊 Portfolio Projects
 
+### 📊 [Global Electronics – Power BI Sales Dashboard](https://github.com/Zhakingg/global-electronics-powerbi)
+End-to-end Power BI project: Excel profiling → Power Query cleaning → star schema → 30+ DAX measures → 4-page dashboard.
+Found that 2020's 49% revenue drop was driven by order volume, not price, and that online share grew every year while delivery time halved.
+**Tools:** Excel · Power Query · Power BI · DAX
+
 ### ⭐ [E-commerce Business Performance & Customer Intelligence (SQL Server)](https://github.com/Zhakingg/olist-sql-analysis)
 
 An end-to-end SQL analysis of 96,211 orders from a Brazilian online marketplace: data validation and cleaning, 15 business questions, RFM customer segmentation, and three evidence-based recommendations.
@@ -60,7 +65,6 @@ Analysis of Fitbit activity data using R.
 
 | Project | Tool |
 |---|---|
-| Sales Dashboard | Power BI |
 | Data Analysis | Python |
 | Cyclistic Analysis | Tableau |
 
