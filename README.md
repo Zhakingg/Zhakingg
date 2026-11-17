@@ -33,7 +33,7 @@ I turn raw data into clear answers. I enjoy investigating problems, finding patt
 | Area | Tools |
 |---|---|
 | **Data analysis** | Excel, SQL, R |
-| **Data visualization** | Tableau, Power BI |
+| **Data visualization** | Power BI (Power Query, DAX), Tableau |
 | **Programming** | Python (developing proficiency) |
 | **Databases** | SQL, Microsoft SQL Server |
 
@@ -41,10 +41,16 @@ I turn raw data into clear answers. I enjoy investigating problems, finding patt
 
 ## 📊 Portfolio Projects
 
-### 📊 [Global Electronics – Power BI Sales Dashboard](https://github.com/Zhakingg/global-electronics-powerbi)
-End-to-end Power BI project: Excel profiling → Power Query cleaning → star schema → 30+ DAX measures → 4-page dashboard.
-Found that 2020's 49% revenue drop was driven by order volume, not price, and that online share grew every year while delivery time halved.
-**Tools:** Excel · Power Query · Power BI · DAX
+### ⭐ [Global Electronics – Power BI Sales Dashboard](https://github.com/Zhakingg/global-electronics-powerbi)
+
+An end-to-end Power BI project on 62,884 sales lines from a global electronics retailer: Excel profiling, Power Query cleaning, a star-schema model, 30+ DAX measures and a 4-page interactive dashboard answering five business questions.
+
+- **Skills shown:** Power Query (locale-aware types, custom columns, data QC), star schema with active/inactive relationships, DAX (`SUMX`/`RELATED`, time intelligence, `USERELATIONSHIP`), dashboard design
+- **Key finding:** 2020's 49% revenue drop came from order volume, not price, while online's share grew every year and delivery time halved
+
+![Dashboard preview](https://raw.githubusercontent.com/Zhakingg/global-electronics-powerbi/main/images/dashboard/01_overview.png)
+
+[View the project](https://github.com/Zhakingg/global-electronics-powerbi) · [Download the report (PDF)](https://github.com/Zhakingg/global-electronics-powerbi/blob/main/powerbi/Global_Electronics.pdf)
 
 ### ⭐ [E-commerce Business Performance & Customer Intelligence (SQL Server)](https://github.com/Zhakingg/olist-sql-analysis)
 
@@ -81,7 +87,6 @@ Analysis of Fitbit activity data using R.
 ## 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--akhigbe-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-akhigbe-733400284) [![Email](https://img.shields.io/badge/Email-Send_a_message-D14836?logo=gmail&logoColor=white)](mailto:akhigbej254@gmail.com)
-<!--
 **Zhakingg/Zhakingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
