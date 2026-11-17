@@ -66,7 +66,6 @@ Analysis of Fitbit activity data using R.
 | Project | Tool |
 |---|---|
 | Data Analysis | Python |
-| Cyclistic Analysis | Tableau |
 
 ---
 
